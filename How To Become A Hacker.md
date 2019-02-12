@@ -117,3 +117,27 @@ Learning to program is like learning to write good natural language. The best wa
 
 **2. Get one of the open-source Unixes and learn to use and run it.**
 
+The single most important step any newbie can take toward acquiring hacker skills is to get a copy of Linux or one of the BSD-Unixes, install it on a personal machine, and run it.
+
+其他的操作系统的代码不可读，而且不可修改。
+
+Unix is the operating system of the Internet. While you can learn to use the Internet without knowing Unix, you can't be an Internet hacker without understanding Unix. For this reason, the hacker culture today is pretty strongly Unix-centered.
+
+不理解Unix操作系统就无法成为互联网黑客。
+
+For more about learning Unix, see [The Loginataka](http://catb.org/~esr/faqs/loginataka.html). You might also want to have a look at [The Art Of Unix Programming](http://catb.org/~esr/writings/taoup/).
+
+The blog [Let's Go Larval!](https://letsgolarval.wordpress.com/) is a window on the learning process of a new Linux user that I think is unusually lucid and helpful. The post [How I Learned Linux](https://letsgolarval.wordpress.com/2015/06/23/how-i-learned-linux/) makes a good starting point.
+
+To get your hands on a Linux, see the [Linux Online!](http://www.linux.org/) site; you can download from there or (better idea) find a local Linux user group to help you with installation.
+
+You can find BSD Unix help and resources at [www.bsd.org](http://www.bsd.org/).
+
+A good way to dip your toes in the water is to boot up what Linux fans call a [live CD](http://www.livecdnews.com/), a distribution that runs entirely off a CD or USB stick without having to modify your hard disk. This may be slow, because CDs are slow, but it's a way to get a look at the possibilities without having to do anything drastic.
+
+I have written a primer on the [basics of Unix and the Internet](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html).
+
+**3. Learn how to use the World Wide Web and write HTML.**
+
+This doesn't just mean learning how to drive a browser (anyone can do that), but learning how to write HTML, the Web's markup language. If you don't know how to program, writing HTML will teach you some mental habits that will help you learn. So build a home page.
+
