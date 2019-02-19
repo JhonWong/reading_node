@@ -141,3 +141,111 @@ I have written a primer on the [basics of Unix and the Internet](http://en.tldp.
 
 This doesn't just mean learning how to drive a browser (anyone can do that), but learning how to write HTML, the Web's markup language. If you don't know how to program, writing HTML will teach you some mental habits that will help you learn. So build a home page.
 
+But just having a home page isn't anywhere near good enough to make you a hacker. The Web is full of home pages. Most of them are pointless, zero-content sludge — very snazzy-looking sludge, mind you, but sludge all the same (for more on this see [The HTML Hell Page](http://catb.org/~esr/html-hell.html)).
+
+垃圾的网页没有任何用处。
+
+To be worthwhile, your page must have *content* — it must be interesting and/or useful to other hackers.
+
+**4. If you don't have functional English, learn it.**
+
+It was reported to me at the time that English has a richer technical vocabulary than any other language and is therefore simply a better tool for the job. For similar reasons, translations of technical books written in English are often unsatisfactory (when they get done at all).
+
+丰富的专业词汇量是翻译面对的最大的问题
+
+## Status in the Hacker Culture
+
+Like most cultures without a money economy, hackerdom runs on reputation. You're trying to solve interesting problems, but how interesting they are, and whether your solutions are really good, is something that only your technical peers or superiors are normally equipped to judge.
+
+只有与自己技术相当或比自己高水平的人才能判断自己的解决方案。
+
+Accordingly, when you play the hacker game, you learn to keep score primarily by what other hackers think of your skill (this is why you aren't really a hacker until other hackers consistently call you one).
+
+个人能力全在他人如何看待自己
+
+Specifically, hackerdom is what anthropologists call a *gift culture*. You gain status and reputation in it not by dominating other people, nor by being beautiful, nor by having things other people want, but rather by giving things away. Specifically, by giving away your time, your creativity, and the results of your skill.
+
+hacker文化就是一种分享的文化
+
+There are basically five kinds of things you can do to be respected by hackers:
+
+**1. Write open-source software**
+
+The first (the most central and most traditional) is to write programs that other hackers think are fun or useful, and give the program sources away to the whole hacker culture to use.
+
+(We used to call these works “free software”, but this confused too many people who weren't sure exactly what “free” was supposed to mean. Most of us now prefer the term “[open-source](http://www.opensource.org/)” software).
+
+**2. Help test and debug open-source software**
+
+If you're a newbie, try to find a program under development that you're interested in and be a good beta-tester(who know how to describe symptoms clearly, localize problems well, can tolerate bugs in a quickie release, and are willing to apply a few simple diagnostic routines). There's a natural progression from helping test programs to helping debug them to helping modify them. You'll learn a lot this way, and generate good karma with people who will help you later on.
+
+**3. Publish useful information**
+
+Another good thing is to collect and filter useful and interesting information into web pages or documents like Frequently Asked Questions (FAQ) lists, and make those generally available.
+
+Maintainers of major technical FAQs get almost as much respect as open-source authors.
+
+**4. Help keep the infrastructure working**
+
+The hacker culture (and the engineering development of the Internet, for that matter) is run by volunteers. There's a lot of necessary but unglamorous work that needs done to keep it going — administering mailing lists, moderating newsgroups, maintaining large software archive sites, developing RFCs and other technical standards.
+
+People who do this sort of thing well get a lot of respect, because everybody knows these jobs are huge time sinks and not as much fun as playing with code. Doing them shows dedication.
+
+**5. Serve the hacker culture itself**
+
+## The Hacker/Nerd Connection
+
+Contrary to popular myth, you don't have to be a nerd to be a hacker. It does help, however, and many hackers are in fact nerds. Being something of a social outcast helps you stay concentrated on the really important things, like thinking and hacking.
+
+专注的人牺牲了自己思考社会关系的时间
+
+If you can manage to concentrate enough on hacking to be good at it and still have a life, that's fine. This is a lot easier today than it was when I was a newbie in the 1970s; mainstream culture is much friendlier to techno-nerds now. There are even growing numbers of people who realize that hackers are often high-quality lover and spouse material.
+
+If you're attracted to hacking because you don't have a life, that's OK too — at least you won't have trouble concentrating. Maybe you'll get a life later on.
+
+## Points For Style
+
+Again, to be a hacker, you have to enter the hacker mindset. There are some things you can do when you're not at a computer that seem to help. They're not substitutes for hacking (nothing is) but many hackers do them, and feel that they connect in some basic way with the essence of hacking.
+
+电脑之外的个人风格
+
+- Learn to write your native language well. Though it's a common stereotype that programmers can't write, a surprising number of hackers (including all the most accomplished ones I know of) are very able writers.
+
+  写作
+
+- Read science fiction. Go to science fiction conventions (a good way to meet hackers and proto-hackers).
+
+- Join a hackerspace and make things (another good way to meet hackers and proto-hackers).
+
+- Train in a martial-arts form. The kind of mental discipline required for martial arts seems to be similar in important ways to what hackers do. The most hackerly martial arts are those which emphasize mental discipline, relaxed awareness, and precise control, rather than raw strength, athleticism, or physical toughness.
+
+  纪律性
+
+- Study an actual meditation discipline. The perennial favorite among hackers is Zen (importantly, it is possible to benefit from Zen without acquiring a religion or discarding one you already have). Other styles may work as well, but be careful to choose one that doesn't require you to believe crazy things.
+
+  冥想
+
+- Develop an analytical ear for music. Learn to appreciate peculiar kinds of music. Learn to play some musical instrument well, or how to sing.
+
+- Develop your appreciation of puns and wordplay.
+
+  学会贫嘴
+
+The more of these things you already do, the more likely it is that you are natural hacker material. Why these things in particular is not completely clear, but they're connected with a mix of left- and right-brain skills that seems to be important; hackers need to be able to both reason logically and step outside the apparent logic of a problem at a moment's notice.
+
+Work as intensely as you play and play as intensely as you work. For true hackers, the boundaries between "play", "work", "science" and "art" all tend to disappear, or to merge into a high-level creative playfulness. Also, don't be content with a narrow range of skills. Though most hackers self-describe as programmers, they are very likely to be more than competent in several related skills — system administration, web design, and PC hardware troubleshooting are common ones. A hacker who's a system administrator, on the other hand, is likely to be quite skilled at script programming and web design. Hackers don't do things by halves; if they invest in a skill at all, they tend to get very good at it.
+
+想游戏一样工作，像工作一样游戏。不要把自己限制在很窄的技术范围内。
+
+Finally, a few things *not* to do.
+
+- Don't use a silly, grandiose user ID or screen name.
+- Don't get in flame wars on Usenet (or anywhere else).
+- Don't call yourself a ‘cyberpunk’, and don't waste your time on anybody who does.
+- Don't post or email writing that's full of spelling errors and bad grammar.
+
+The problem with screen names or handles deserves some amplification. Concealing your identity behind a handle is a juvenile and silly behavior characteristic of crackers, warez d00dz, and other lower life forms. Hackers don't do this; they're proud of what they do and want it associated with their *real* names. So if you have a handle, drop it. In the hacker culture it will only mark you as a loser.
+
+尽量使用真名。
+
+## Historical Note: Hacking, Open Source, and Free Software
