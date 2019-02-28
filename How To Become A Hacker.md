@@ -248,4 +248,64 @@ The problem with screen names or handles deserves some amplification. Concealing
 
 尽量使用真名。
 
-## Historical Note: Hacking, Open Source, and Free Software
+## Other Resources
+
+Younger hackers might find [Things Every Hacker Once Knew](http://catb.org/~esr/faqs/things-every-hacker-once-knew) interesting and useful.
+
+Rick Moen has written an excellent document on [how to run a Linux user group](http://linuxmafia.com/faq/Linux_PR/newlug.html).
+
+Rick Moen and I have collaborated on another document on [How To Ask Smart Questions](http://catb.org/~esr/faqs/smart-questions.html). This will help you seek assistance in a way that makes it more likely that you will actually get it.
+
+If you need instruction in the basics of how personal computers, Unix, and the Internet work, see [The Unix and Internet Fundamentals HOWTO](http://en.tldp.org/HOWTO//Unix-and-Internet-Fundamentals-HOWTO/).
+
+When you release software or write patches for software, try to follow the guidelines in the [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html).
+
+If you enjoyed the Zen poem, you might also like [Rootless Root: The Unix Koans of Master Foo](http://catb.org/~esr//writings/unix-koans).
+
+## Frequently Asked Questions
+
+| **Q:** | How do I tell if I am already a hacker?                      |
+| ------ | ------------------------------------------------------------ |
+| **A:** | Ask yourself the following three questions:Do you speak code, fluently?  Do you identify with the goals and values of the hacker community?Has a well-established member of the hacker community ever called you a hacker? |
+
+**Q:**Will you teach me how to hack?
+
+**A:**Learn a few things first. Show that you're trying, that you're capable of learning on your own. Then go to the hackers you meet with specific questions.
+
+If you do email a hacker asking for advice. We've found that people who are lazy or careless in their writing are usually too lazy and careless in their thinking to make good hackers — so take care to spell correctly, and use good grammar and punctuation, otherwise you'll probably be ignored.
+
+
+
+**Q:**How can I get started, then?
+
+**A:**The best way for you to get started would probably be to go to a LUG (Linux user group) meeting. You can find such groups on the [LDP General Linux Information Page](http://www.tldp.org/links/index.html); there is probably one near you, possibly associated with a college or university. LUG members will probably give you a Linux if you ask, and will certainly help you install one and get started.
+
+Your next step (and your first step if you can't find a LUG nearby) should be to find an open-source project that interests you. Start reading code and reviewing bugs. Learn to contribute, and work your way in.
+
+*The only way in is by working to improve your skills.* If you ask me personally for advice on how to get started, I will tell you these exact same things, because I don't have any magic shortcuts for you. I will also mentally write you off as a probable loser - because if you lacked the stamina to read this FAQ and the intelligence to understand from it that *the only way in is by working to improve your skills*, you're hopeless.
+
+Another interesting possibility is to go visit a hackerspace. There is a burgeoning movement of people creating physical locations - maker's clubs - where they can hang out to work on hardware and software projects together, or work solo in a cogenial atmosphere. Hackerspaces often collect tools and specialized equipment that would be too expensive or logistically inconvenient for individuals to own. Hackerspaces are easy to find on the Internet; one may be located near you.
+
+**Q:**How long will it take me to learn to hack?
+
+**A:**That depends on how talented you are and how hard you work at it. Most people who try can acquire a respectable skill set in eighteen months to two years, if they concentrate. Don't think it ends there, though; in hacking (as in many other fields) it takes about ten years to achieve mastery. And if you are a real hacker, you will spend the rest of your life learning and perfecting your craft.
+
+**Q:**Where can I find some real hackers to talk with?
+
+**A:**The best way is to find a Unix or Linux user's group local to you and go to their meetings (you can find links to several lists of user groups on the [LDP](http://www.tldp.org/) site at ibiblio).
+
+(I used to say here that you wouldn't find any real hackers on IRC, but I'm given to understand this is changing. Apparently some real hacker communities, attached to things like GIMP and Perl, have IRC channels now.)
+
+**Q:**Can you recommend useful books about hacking-related subjects?
+
+**A:**I maintain a [Linux Reading List HOWTO](http://en.tldp.org/HOWTO/Reading-List-HOWTO/index.html) that you may find helpful. The [Loginataka](http://www.catb.org/esr/faqs/loginataka.html) may also be interesting.For an introduction to Python, see the [tutorial ](http://docs.python.org/tutorial/index.html)on the Python site.
+
+**Q:**Where can I get a free Unix?
+
+**A:**If you don't have a Unix installed on your machine yet, elsewhere on this page I include pointers to where to get the most commonly used free Unix. To be a hacker you need motivation and initiative and the ability to educate yourself. Start now...
+
+---
+
+I think a good way to find out if you have what it takes is to pick up a copy of Raymond Smullyan's book *What Is The Name Of This Book?*. Smullyan's playful logical conundrums are very much in the hacker spirit. Being able to solve them is a good sign; *enjoying* solving them is an even better one.
+
+In general, any language that isn't fully supported under at least Linux or one of the BSDs, and/or at least three different vendors' operating systems, is a poor one to learn to hack in.
